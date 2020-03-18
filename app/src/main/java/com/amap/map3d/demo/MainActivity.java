@@ -148,6 +148,12 @@ public final class MainActivity extends ListActivity {
 	}
 
 	private static final DemoDetails[] demos = {
+			new DemoDetails(R.string.standard_map, R.string.standard_description,
+					StandardAct.class),
+			new DemoDetails(R.string.favs, R.string.favs_description,
+					FavouritesAct.class),
+			new DemoDetails(R.string.upload, R.string.upload_description,
+					UploadActivity.class),
 //		            创建地图
 			new DemoDetails(R.string.map_create, R.string.blank, null),
 //			显示地图

@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <string name="standard_map">标准地图</string>
+    <string name="standard_description">显示标准地图</string>
+    <string name="favs">收藏夹</string>
+    <string name="favs_description">显示收藏夹</string>
+    <string name="upload">上传</string>
+    <string name="upload_description">显示上传</string>
+
     <string name="animate">Animate</string>
     <string name="basic_map">显示地图</string>
     <string name="basic_description">介绍如何创建一个基本地图</string>
